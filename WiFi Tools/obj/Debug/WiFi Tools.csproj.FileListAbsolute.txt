@@ -1,0 +1,14 @@
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\bin\Debug\WiFi Tools.exe.config
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\bin\Debug\WiFi Tools.exe
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\bin\Debug\WiFi Tools.pdb
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi Tools.csprojAssemblyReference.cache
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi_Tools.Form1.resources
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi_Tools.Properties.Resources.resources
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi Tools.csproj.GenerateResource.cache
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi Tools.csproj.CoreCompileInputs.cache
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi Tools.exe
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi Tools.pdb
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi_Tools.Form_configs.resources
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi_Tools.Form_jornal.resources
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\bin\Debug\SimpleWifi.dll
+D:\IT\Visual Studio\WiFi Tools\WiFi Tools\obj\Debug\WiFi Tools.csproj.CopyComplete
